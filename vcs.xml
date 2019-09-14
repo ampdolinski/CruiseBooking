@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="ampdolinski" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:ampdolinski/CruiseBooking.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\LAPI\ProjectsSDA" />
   </component>
 </application>
